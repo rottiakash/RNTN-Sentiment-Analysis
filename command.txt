@@ -1,0 +1,1 @@
+java -Xmx8g edu.stanford.nlp.sentiment.SentimentPipeline -file output.txt -output PENNTREES >> tree.txt
